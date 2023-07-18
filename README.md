@@ -1,1 +1,1 @@
-## SELAM BEYLER EVET UZUN SÜRE OLDU GELİCEK PM2 OLARAK YAZLILDI İÇİN BOT BİRAZ UZUN GELİYOR TAKİPCİ KASIN DA BİZ DE YOLUMUZU GÖREK BÜYÜK BİR SUPERVİZOR OLUCAK V13 V14 KARŞIM BİR BOTDUR :)
+## Yakın zamanda v14 pm2 supervizor gelicek ramal ile ortak geliştirmiz botu sunucaz siz de beklemede kalın 30 40 star da paylaşıcaz bot bitti gün görsel eklicem buraya:
