@@ -4,7 +4,7 @@
 
 Testleri yapılmıştır Hiçbir hatası bulunmamaktadır starlarınızı bekliyoruz Sizlere Ekip Botu veriyorum zaman olmadığı için hızlı yaptık ve elimizden geldiği kadar ekleme yaptık çoklu tag sistemli uyarlı ve kendiniz çogaltabilirsiniz.
 
-Setup sistem olarak yaptık kullanırken ```config.json``` Boş yerleri doldurun. modül indirmek için tek yapacağınız şey ``` npm i```  
+Setup sistem olarak yaptık kullanırken ```config.json``` Boş yerleri doldurun
 
 olarak terminal yerine yazın ve indirin ``` başlat.bat```  ile çaliştırın ``` npm i```  ile ügraşmam diyorsanız ``` modül.bat```  ekledik
 
