@@ -10,6 +10,8 @@ olarak terminal yerine yazın ve indirin ``` başlat.bat```  ile çaliştırın 
 
 pm2 olarak yapıldı pm2 komutunu kullanman için yapman gereken  ``` npm i pm2@latest -g -s```  Bilgisayarınız da cmd yi çalıştırıp yükleyebilirsiniz
 
+### 📢 NOT Botta MIT lisansı bulunmaktadır. Bu botun dosyalarının benden habersiz paylaşılması/satılması durumunda gerekli işlemler yapılacaktır!
+
 ## Botun Görseleri
 
 ![image](https://i.ytimg.com/vi/-b-HwcKtAvk/maxresdefault.jpg)
