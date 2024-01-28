@@ -12,7 +12,7 @@ pm2 olarak yapıldı pm2 komutunu kullanman için yapman gereken  ``` npm i pm2@
 
 ### 📢 NOT Botta MIT lisansı bulunmaktadır. Bu botun dosyalarının benden habersiz paylaşılması/satılması durumunda gerekli işlemler yapılacaktır!
 
-## Botun Görseleri
+## Tanıtım Videosu
 
-![image](https://i.ytimg.com/vi/-b-HwcKtAvk/maxresdefault.jpg)
+![Tıkla İzle](https://www.youtube.com/watch?v=N3iLouZfaLA)
 
