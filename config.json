@@ -1,0 +1,29 @@
+{ 
+    "GuildID": "",
+    "GuildName": "",
+    "owners": ["",""],
+    "BotDurum": ["",""], 
+    "BotSesKanal": "",
+    "AltBaşlık": "",
+    
+    "mongoUrl": "",
+
+
+    
+        
+    
+
+    "Main": {
+        "ModerationToken": "",
+        "RegisterToken": "",
+        "BotClientID": "",
+
+        "prefix": [".","!"]
+
+    
+    }
+}
+  
+   
+
+
