@@ -1,6 +1,6 @@
 # Ekip Register V14
 
-- Botun Sahipleri papazchavo. , ancientchavo, Devcode
+- Botun Sahipleri papazchavo. , ancientchavo, cartelizm, Devcode
 
 Testleri yapılmıştır Hiçbir hatası bulunmamaktadır starlarınızı bekliyoruz Sizlere Ekip Botu veriyorum zaman olmadığı için hızlı yaptık ve elimizden geldiği kadar ekleme yaptık çoklu tag sistemli uyarlı ve kendiniz çogaltabilirsiniz.
 
@@ -16,4 +16,4 @@ pm2 olarak yapıldı pm2 komutunu kullanman için yapman gereken  ``` npm i pm2@
 
 [Tıkla İzle](https://www.youtube.com/watch?v=N3iLouZfaLA)
 
-<p align="center">Developed by Cartelizm & Papaz Chavo</p>
+<p align="center">Developed by Cartelizm & Papaz Chavo & Ancient</p>
