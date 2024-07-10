@@ -16,3 +16,4 @@ pm2 olarak yapıldı pm2 komutunu kullanman için yapman gereken  ``` npm i pm2@
 
 [Tıkla İzle](https://www.youtube.com/watch?v=N3iLouZfaLA)
 
+<p align="center">Developed by Cartelizm & Papaz Chavo</p>
